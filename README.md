@@ -1,6 +1,3 @@
-<picture>
- <img alt="haar & tree" src="https://avatars.githubusercontent.com/u/123667606?v=4">
-</picture>
 
 <header>
 
@@ -20,11 +17,11 @@
 
 <p>
 <table>
-| invested in learning | -- | data science / software solutions / interactive data vis |
-|         ---:         | :----: |          :--- |
-| workflow             | -- | terminal-centric |
-|                      | -- | python / R |
-| neophyte in          | -- | haskell / SQL |
+ | invested in learning | -- | data science / software solutions / interactive data vis |
+ |         ---:         | :----: |          :--- |
+ | workflow             | -- | terminal-centric |
+ |                      | -- | python / R |
+ | neophyte in          | -- | haskell / SQL |
 </table>  
 
 🧠 recent neuroscience graduate. </br>
