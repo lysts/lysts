@@ -6,7 +6,7 @@
   neophyte in             ⋅⋅⋅--    haskell / SQL <br>
 </pre>
 
-⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅
+--⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅    
 
   🧠 recent neuroscience graduate. <br>
   🔊 musician.  sound enthusiast. <br>
