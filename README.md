@@ -14,9 +14,8 @@
   --⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅  
 
   💡 inspired by FOSS & anything interdisciplinary <br>
-  🪐 occasional game jam artist. <br> 
   🧠 recent neuroscience graduate. <br>
-  🔊 musician. sound enthusiast. <br>
+  🔊 musician. occasional game jam artist. sound enthusiast. <br>
   ☕ follow my programming & tech journey <a href="http://lysts.xyz/">here!</a>.  <br>
   
 </pre>
