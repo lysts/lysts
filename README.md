@@ -13,11 +13,12 @@
 
   --⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅  
 
-  💡 inspired by FOSS & anything interdisciplinary. <br>
-  🧠 recent neuroscience graduate. <br>
-  🔊 musician. occasional game jam artist. sound enthusiast. <br>
-  ☕ follow my programming & tech journey <a href="http://lysts.xyz/">here!</a>. <br>
+  💡 inspired by FOSS & anything interdisciplinary.
+  🧠 recent neuroscience graduate.
+  🔊 musician. occasional game jam artist. sound enthusiast.
+  ☕ follow my programming & tech journey <a href="http://lysts.xyz/">here!</a>.
      *currently under maintenance
+  
   start! jun/17/23 ⋅ ⋅⋅⋅-›
   
 </pre>
