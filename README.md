@@ -7,7 +7,7 @@
   
   workflow                ⋅⋅⋅--    terminal-centric <br>
   
-                          ⋅⋅⋅--    python / R / html <br>
+                          ⋅⋅⋅--    python / R / html / css <br>
   
   neophyte in             ⋅⋅⋅--    haskell / SQL <br>
 
