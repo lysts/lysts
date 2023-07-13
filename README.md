@@ -22,7 +22,7 @@
   ☕ follow my programming & tech journey <a href="http://lysts.xyz/">here!</a>.
      *currently under maintenance
   
-  start! jun/17/23 ⋅ ⋅⋅⋅-›
+  start! jul/13/23 ⋅ ⋅⋅⋅-›
   
 </pre>
 
