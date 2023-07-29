@@ -26,7 +26,6 @@
   
 </pre>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=lysts&custom_title=github%20stats&theme=darcula&show_icons=true&icon_color=8787ff&bg_color=06060c&hide_border=true)
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lysts&custom_title=contribution%20log&hide_border=true&bg_color=07060c&color=d75f00&title_color=d75f00&line=d75f00&point=879cff)](https://github.com/lysts/github-readme-activity-graph)
 
 
