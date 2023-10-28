@@ -3,13 +3,13 @@
   
   -⋅⋅
   
-  invested in learning    ⋅⋅⋅--    data science / software solutions / data vis <br>
+  invested in learning    ⋅⋅⋅--    UX/UI / software solutions / data vis <br>
   
   workflow                ⋅⋅⋅--    terminal-centric <br>
   
-                          ⋅⋅⋅--    python / R / html / css <br>
+                          ⋅⋅⋅--    Python / SQL / R / HTML / CSS <br>
   
-  neophyte in             ⋅⋅⋅--    haskell / SQL <br>
+  neophyte in             ⋅⋅⋅--    haskell / JavaScript <br>
 
   --⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅  
 
@@ -22,7 +22,7 @@
   ☕ follow my programming & tech journey <a href="http://lysts.xyz/">here!</a>.
      *currently under maintenance
   
-  start! jul/13/23 ⋅ ⋅⋅⋅-›
+  start! aug 23 ⋅ ⋅⋅⋅-›
   
 </pre>
 
