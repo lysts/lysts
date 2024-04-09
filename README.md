@@ -3,13 +3,13 @@
   
   -⋅⋅
   
-  invested in learning    ⋅⋅⋅--    UX/UI / software solutions / data vis <br>
+  invested in learning    ⋅⋅⋅--    UX/UI / software solutions / interactive design <br>
   
-  workflow                ⋅⋅⋅--    terminal-centric <br>
+  workflow                ⋅⋅⋅--    VSCode / terminal-centric / React.js <br>
   
-                          ⋅⋅⋅--    Python / SQL / R / HTML / CSS <br>
+                          ⋅⋅⋅--    TypeScript / JavaScript / HTML / CSS / PostgreSQL / <br>
   
-  neophyte in             ⋅⋅⋅--    haskell / JavaScript <br>
+  neophyte in             ⋅⋅⋅--    Langchain / Front-end E-Commerce <br>
 
   --⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅  
 
@@ -19,8 +19,7 @@
 
   🔊 musician. occasional game jam artist. sound enthusiast.
   
-  ☕ follow my programming & tech journey <a href="http://lysts.xyz/">here!</a>.
-     *currently under maintenance
+  ☕ check out my portfolio <a href="https://lysts.vercel.app">here</a> and follow my programming & tech portfolio journey <a href="http://lysts.xyz/">here!</a> *currently under maintenance.
   
   start! aug 23 ⋅ ⋅⋅⋅-›
   
