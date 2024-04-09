@@ -19,7 +19,8 @@
 
   🔊 musician. occasional game jam artist. sound enthusiast.
   
-  ☕ check out my portfolio <a href="https://lysts.vercel.app">here</a> and follow my programming & tech portfolio journey <a href="http://lysts.xyz/">here!</a>         *blog currently under maintenance.
+  ☕ check out my portfolio <a href="https://lysts.vercel.app">here</a> and follow my programming & tech portfolio journey <a href="http://lysts.xyz/">here!</a>
+    *blog under maintenance.
   
   start! aug 23 ⋅ ⋅⋅⋅-›
   
