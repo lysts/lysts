@@ -7,9 +7,9 @@
   
   workflow                ⋅⋅⋅--    VSCode / terminal-centric / React.js <br>
   
-                          ⋅⋅⋅--    TypeScript / JavaScript / HTML / CSS / PostgreSQL <br>
+                          ⋅⋅⋅--    TypeScript / JavaScript / HTML & CSS <br>
   
-  neophyte in             ⋅⋅⋅--    Langchain / Front-end E-Commerce <br>
+  neophyte in             ⋅⋅⋅--    Langchain <br>
 
   --⋅⋅⋅⋅ ⋅ ⋅  ⋅   ⋅    ⋅  
 
