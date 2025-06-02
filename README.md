@@ -3,7 +3,7 @@
   
   -⋅⋅
   
-  invested in learning    ⋅⋅⋅--    UX/UI / software solutions / interactive design <br>
+  invested in learning    ⋅⋅⋅--    interactive design / optimised coffee brewing / anything sound-tech related <br>
   
   workflow                ⋅⋅⋅--    VSCode / terminal-centric / React.js <br>
   
