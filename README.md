@@ -3,7 +3,7 @@
   
   -⋅⋅
   
-  invested in learning    ⋅⋅⋅--    interactive design / optimised coffee brewing / anything sound-tech related <br>
+  invested in learning    ⋅⋅⋅--    interactive design / sound / optimised coffee brewing <br>
   
   workflow                ⋅⋅⋅--    VSCode / terminal-centric / React.js <br>
   
@@ -19,10 +19,9 @@
 
   🔊 musician. occasional game jam artist. sound enthusiast.
   
-  ☕ check out my portfolio <a href="https://lysts.vercel.app">here</a> and follow my programming & tech portfolio journey <a href="http://lysts.xyz/">here!</a>
-    *blog under maintenance.
+  ☕ check out my blog <a href="http://lysts.xyz/">here!</a>.
   
-  start! aug 23 ⋅ ⋅⋅⋅-›
+   ⋅ ⋅⋅⋅-›
   
 </pre>
 
